@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658492Z
+addr = 0x39dda0
+size = 0x4b0a
+name = "CLoopTypeClientServer_Update"
+
+[header]
+name = "CLoopTypeClientServer_Update"
+addr = 0x39dda0
+
+[header.args]

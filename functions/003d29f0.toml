@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658516Z
+addr = 0x3d29f0
+size = 0x1da
+name = "CGameResourceService_LoadGameResourceManifest_IEntityResourceManifest"
+
+[header]
+name = "CGameResourceService_LoadGameResourceManifest_IEntityResourceManifest"
+addr = 0x3d29f0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658875Z
+addr = 0x528d10
+size = 0x33b
+name = "CEngineServer_ClientCommandKeyValues"
+
+[header]
+name = "CEngineServer_ClientCommandKeyValues"
+addr = 0x528d10
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658428Z
+addr = 0x36f4b0
+size = 0x8
+name = "CEngineServiceMgr_GetActiveLoop"
+
+[header]
+name = "CEngineServiceMgr_GetActiveLoop"
+addr = 0x36f4b0
+
+[header.args]

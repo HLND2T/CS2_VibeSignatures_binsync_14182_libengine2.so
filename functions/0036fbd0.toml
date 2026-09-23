@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658442Z
+addr = 0x36fbd0
+size = 0xb1
+name = "CEngineServiceMgr_UnregisterLoopMode"
+
+[header]
+name = "CEngineServiceMgr_UnregisterLoopMode"
+addr = 0x36fbd0
+
+[header.args]

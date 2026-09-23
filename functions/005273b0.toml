@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658854Z
+addr = 0x5273b0
+size = 0x3b
+name = "CEngineServer_IsMapValid"
+
+[header]
+name = "CEngineServer_IsMapValid"
+addr = 0x5273b0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658871Z
+addr = 0x528250
+size = 0x77
+name = "CEngineServer_IsUserIDInUse"
+
+[header]
+name = "CEngineServer_IsUserIDInUse"
+addr = 0x528250
+
+[header.args]

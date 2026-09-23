@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658892Z
+addr = 0x531e60
+size = 0x1cf
+name = "CServerSideClientBase_ProcessClientInfo"
+
+[header]
+name = "CServerSideClientBase_ProcessClientInfo"
+addr = 0x531e60
+
+[header.args]

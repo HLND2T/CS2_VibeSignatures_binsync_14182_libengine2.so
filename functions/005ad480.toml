@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658950Z
+addr = 0x5ad480
+size = 0x54d
+name = "CHLTVClient_ProcessSetConVar"
+
+[header]
+name = "CHLTVClient_ProcessSetConVar"
+addr = 0x5ad480
+
+[header.args]

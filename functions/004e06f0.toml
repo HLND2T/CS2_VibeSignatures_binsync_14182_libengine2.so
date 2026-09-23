@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658685Z
+addr = 0x4e06f0
+size = 0x74
+name = "Callback_GenericChanged"
+
+[header]
+name = "Callback_GenericChanged"
+addr = 0x4e06f0
+
+[header.args]

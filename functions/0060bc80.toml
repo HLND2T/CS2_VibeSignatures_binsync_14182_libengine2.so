@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658961Z
+addr = 0x60bc80
+size = 0x1d8
+name = "ConnectInterfaces"
+
+[header]
+name = "ConnectInterfaces"
+addr = 0x60bc80
+
+[header.args]

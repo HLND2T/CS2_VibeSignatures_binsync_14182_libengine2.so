@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658942Z
+addr = 0x593820
+size = 0x73e
+name = "SetInfo_CommandHandler"
+
+[header]
+name = "SetInfo_CommandHandler"
+addr = 0x593820
+
+[header.args]

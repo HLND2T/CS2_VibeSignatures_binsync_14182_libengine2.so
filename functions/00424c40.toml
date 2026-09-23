@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658586Z
+addr = 0x424c40
+size = 0x21
+name = "CNetworkClientService_ClockDriftAdjustFrameTime"
+
+[header]
+name = "CNetworkClientService_ClockDriftAdjustFrameTime"
+addr = 0x424c40
+
+[header.args]

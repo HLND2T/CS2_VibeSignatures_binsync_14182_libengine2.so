@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658805Z
+addr = 0x5205c0
+size = 0x59
+name = "CNetworkGameServer_GetPlayerNetworkIDString"
+
+[header]
+name = "CNetworkGameServer_GetPlayerNetworkIDString"
+addr = 0x5205c0
+
+[header.args]

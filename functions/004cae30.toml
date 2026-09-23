@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658659Z
+addr = 0x4cae30
+size = 0x1ac
+name = "CNetworkGameClientBase_DeferActivate"
+
+[header]
+name = "CNetworkGameClientBase_DeferActivate"
+addr = 0x4cae30
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658932Z
+addr = 0x5861b0
+size = 0x24e
+name = "CSteam3Server_SendUpdatedServerDetails"
+
+[header]
+name = "CSteam3Server_SendUpdatedServerDetails"
+addr = 0x5861b0
+
+[header.args]

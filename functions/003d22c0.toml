@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658512Z
+addr = 0x3d22c0
+size = 0x1de
+name = "CGameResourceService_PrecacheEntitiesAndConfirmResourcesAreLoaded"
+
+[header]
+name = "CGameResourceService_PrecacheEntitiesAndConfirmResourcesAreLoaded"
+addr = 0x3d22c0
+
+[header.args]

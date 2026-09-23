@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658416Z
+addr = 0x3576b0
+size = 0x37a
+name = "InitSteamLogin"
+
+[header]
+name = "InitSteamLogin"
+addr = 0x3576b0
+
+[header.args]

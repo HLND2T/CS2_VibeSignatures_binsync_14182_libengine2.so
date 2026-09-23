@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658464Z
+addr = 0x382200
+size = 0x275
+name = "CLoopTypeBase_LoadDependentServices"
+
+[header]
+name = "CLoopTypeBase_LoadDependentServices"
+addr = 0x382200
+
+[header.args]

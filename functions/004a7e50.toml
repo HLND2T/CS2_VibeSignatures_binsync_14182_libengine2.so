@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658638Z
+addr = 0x4a7e50
+size = 0x239
+name = "CNetworkGameClient_RecordEntityBandwidth"
+
+[header]
+name = "CNetworkGameClient_RecordEntityBandwidth"
+addr = 0x4a7e50
+
+[header.args]

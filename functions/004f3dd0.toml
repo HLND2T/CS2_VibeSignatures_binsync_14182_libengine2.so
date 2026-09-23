@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658699Z
+addr = 0x4f3dd0
+size = 0x3ce
+name = "CNetworkGameClient_ProcessClassInfo"
+
+[header]
+name = "CNetworkGameClient_ProcessClassInfo"
+addr = 0x4f3dd0
+
+[header.args]

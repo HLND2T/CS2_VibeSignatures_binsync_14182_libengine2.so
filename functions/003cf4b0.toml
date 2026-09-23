@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658498Z
+addr = 0x3cf4b0
+size = 0x22
+name = "CGameResourceService_GetResourceManifestDebugName"
+
+[header]
+name = "CGameResourceService_GetResourceManifestDebugName"
+addr = 0x3cf4b0
+
+[header.args]

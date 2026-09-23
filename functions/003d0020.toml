@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658502Z
+addr = 0x3d0020
+size = 0x7a
+name = "CGameResourceService_DescribeContents"
+
+[header]
+name = "CGameResourceService_DescribeContents"
+addr = 0x3d0020
+
+[header.args]

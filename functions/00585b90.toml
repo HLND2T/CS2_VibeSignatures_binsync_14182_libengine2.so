@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658930Z
+addr = 0x585b90
+size = 0x29c
+name = "CSteam3ServerS1_ShutdownGameServer"
+
+[header]
+name = "CSteam3ServerS1_ShutdownGameServer"
+addr = 0x585b90
+
+[header.args]

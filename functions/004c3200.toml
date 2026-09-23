@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658654Z
+addr = 0x4c3200
+size = 0x586
+name = "CNetworkGameClientBase_ProcessSpawnGroup_SetCreationTick"
+
+[header]
+name = "CNetworkGameClientBase_ProcessSpawnGroup_SetCreationTick"
+addr = 0x4c3200
+
+[header.args]

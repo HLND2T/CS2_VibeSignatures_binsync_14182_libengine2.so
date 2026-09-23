@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658581Z
+addr = 0x4219d0
+size = 0x8
+name = "CNetworkClientService_GetDisconnectReason"
+
+[header]
+name = "CNetworkClientService_GetDisconnectReason"
+addr = 0x4219d0
+
+[header.args]

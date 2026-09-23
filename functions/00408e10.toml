@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658548Z
+addr = 0x408e10
+size = 0x8c
+name = "CNetworkServerService_OnKickByIdHLTV"
+
+[header]
+name = "CNetworkServerService_OnKickByIdHLTV"
+addr = 0x408e10
+
+[header.args]

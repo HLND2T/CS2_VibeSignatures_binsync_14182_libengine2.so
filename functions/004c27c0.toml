@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:24.658650Z
+addr = 0x4c27c0
+size = 0x16
+name = "CNetworkGameClientBase_ProcessSpawnGroup_ManifestUpdate"
+
+[header]
+name = "CNetworkGameClientBase_ProcessSpawnGroup_ManifestUpdate"
+addr = 0x4c27c0
+
+[header.args]
